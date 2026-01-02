@@ -21,7 +21,7 @@ A simple weather application that shows real-time weather data using an API.
 2. Open index.html in browser
 
 ## 🔗 Live Demo
-👉 https://tirthvisani.github.io/weather-app/
+👉 https://tirthvisani.github.io/weather-app-JS/
 
 
 ## 🙋 Author
