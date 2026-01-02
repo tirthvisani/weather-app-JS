@@ -20,5 +20,9 @@ A simple weather application that shows real-time weather data using an API.
 1. Clone the repo
 2. Open index.html in browser
 
+## 🔗 Live Demo
+👉 https://tirthvisani.github.io/weather-app/
+
+
 ## 🙋 Author
 Tirth Visani
