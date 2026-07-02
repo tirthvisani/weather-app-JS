@@ -24,5 +24,5 @@ A simple weather application that shows real-time weather data using an API.
 👉 https://tirthvisani.github.io/weather-app-JS/
 
 
-## 🙋 Author
+##  Author
 Tirth Visani
